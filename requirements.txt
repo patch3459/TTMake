@@ -1,0 +1,8 @@
+moviepy
+praw
+psaw
+librosa
+pillow 
+selenium
+python-dotenv
+azure-cognitiveservices-speech
